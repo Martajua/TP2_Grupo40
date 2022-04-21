@@ -1,6 +1,6 @@
 package ar.edu.unju.fi.p7;
 
-import java.util.*;
+//import java.util.*;
 public class Prueba {
 
 	    public static void main(String[] args){
