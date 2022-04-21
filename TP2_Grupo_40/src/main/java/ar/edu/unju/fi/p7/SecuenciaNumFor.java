@@ -1,5 +1,5 @@
 
-package ar.edu.unju.fi.aplicacion.p7;
+package ar.edu.unju.fi.p7;
 
 import java.util.Scanner;
 public class SecuenciaNumFor {
