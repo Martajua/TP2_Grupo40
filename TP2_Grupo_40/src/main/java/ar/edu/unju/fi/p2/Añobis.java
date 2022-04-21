@@ -1,6 +1,7 @@
 package ar.edu.unju.fi.p2;
 import java.util.Scanner;
-public class EsBisiesto {
+
+public class Añobis {
 	@SuppressWarnings("resource")
 
 	public static void main(String[] args) {
