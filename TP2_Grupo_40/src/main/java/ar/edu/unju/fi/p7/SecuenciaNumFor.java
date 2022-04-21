@@ -2,7 +2,7 @@
 package ar.edu.unju.fi.aplicacion.p7;
 
 import java.util.Scanner;
-public class Prueba {
+public class SecuenciaNumFor {
 	
 	public static void main(String[] args) {
 
