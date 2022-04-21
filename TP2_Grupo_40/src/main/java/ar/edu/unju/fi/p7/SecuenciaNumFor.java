@@ -16,7 +16,7 @@ public class SecuenciaNumFor {
         		//System.out.println(k);
         		
         	 j=j+i;
-        		System.out.println(k);
+        		System.out.println(j);
         	} 
         	else {
         		//System.out.println("IMPAR"+i);
