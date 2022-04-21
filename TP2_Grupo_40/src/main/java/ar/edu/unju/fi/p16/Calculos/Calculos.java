@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.p16;
+package ar.edu.unju.fi.p16.Calculos;
 
 public class Calculos {
 	public int n;
