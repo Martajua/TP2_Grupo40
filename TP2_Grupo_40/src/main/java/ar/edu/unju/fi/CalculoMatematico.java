@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.p1;
+package ar.edu.unju.fi;
 
 import java.util.Scanner;
 
