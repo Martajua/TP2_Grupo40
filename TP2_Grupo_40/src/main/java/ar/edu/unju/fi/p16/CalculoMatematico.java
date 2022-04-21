@@ -2,7 +2,7 @@ package ar.edu.unju.fi.p16;
 
 import java.util.Scanner;
 
-import ar.edu.unju.fi.Calculos;
+import ar.edu.unju.fi.p16.Calculos.*;
 
 public class CalculoMatematico {
 	
