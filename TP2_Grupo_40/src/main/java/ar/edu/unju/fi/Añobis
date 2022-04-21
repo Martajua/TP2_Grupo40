@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.aplication.añobis;
+package ar.edu.unju.fi.añobis;
 import java.util.Scanner;
 public class EsBisiesto {
 	@SuppressWarnings("resource")
