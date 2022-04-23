@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.Scanner;
 import java.time.LocalDate;
 import java.time.Period;
+@SuppressWarnings("unused")
 @SpringBootApplication
 public class PrincipalEjercicio15 {
 
