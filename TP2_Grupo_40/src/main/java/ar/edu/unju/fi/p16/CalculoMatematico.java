@@ -1,13 +1,13 @@
 package ar.edu.unju.fi.p16;
 
-import java.util.Scanner;
-
+import java.util.Scanner; 
 import ar.edu.unju.fi.p16.Calculos.*;
 
 public class CalculoMatematico {
 	
 	public int n;
 	
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Introduzca las veces de repeticiones n: "); int n = scanner.nextInt();
