@@ -8,6 +8,7 @@ import java.time.Period;
 @SpringBootApplication
 public class PrincipalEjercicio15 {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		SpringApplication.run(PrincipalEjercicio15.class, args);
 		
