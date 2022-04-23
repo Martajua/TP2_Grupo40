@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.empleo;
+package ar.edu.unju.fi.p13;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
